@@ -1,0 +1,319 @@
+﻿ACCOUNT;MFR;Managerial;Acctype;Category
+11112010;ASSETS;Cash Position;AST;BS
+11112011;ASSETS;Cash Position;AST;BS
+11112012;ASSETS;Cash Position;AST;BS
+11112014;ASSETS;Cash Position;AST;BS
+11112015;ASSETS;Cash Position;AST;BS
+11113012;ASSETS;Financial Investments;AST;BS
+11113017;ASSETS;Financial Investments;AST;BS
+11113019;ASSETS;Financial Investments;AST;BS
+11113021;ASSETS;Financial Investments;AST;BS
+11113022;ASSETS;Financial Investments;AST;BS
+11216002;ASSETS;Plataform Receibles;AST;BS
+11216003;ASSETS;Plataform Receibles;AST;BS
+11216004;ASSETS;Plataform Receibles;AST;BS
+11216005;ASSETS;Plataform Receibles;AST;BS
+11217001;ASSETS;Intercompany receivable;AST;BS
+11217002;ASSETS;Intercompany receivable;AST;BS
+11217004;ASSETS;Intercompany receivable;AST;BS
+11217005;ASSETS;Intercompany receivable;AST;BS
+11217006;ASSETS;Intercompany receivable;AST;BS
+11217008;ASSETS;Intercompany receivable;AST;BS
+11217009;ASSETS;Intercompany receivable;AST;BS
+11217010;ASSETS;Intercompany receivable;AST;BS
+11217011;ASSETS;Intercompany receivable;AST;BS
+11317001;ASSETS;Other Assets;AST;BS
+11317005;ASSETS;Other Assets;AST;BS
+11319003;ASSETS;Other Assets;AST;BS
+11319006;ASSETS;Other Assets;AST;BS
+11319010;ASSETS;Other Assets;AST;BS
+11320002;ASSETS;Recoverable taxes;AST;BS
+11320003;Current liabilities;Income Taxes;AST;BS
+11320004;ASSETS;Recoverable taxes;AST;BS
+11320006;Current liabilities;Income Taxes;AST;BS
+11320010;ASSETS;Recoverable taxes;AST;BS
+11320012;ASSETS;Recoverable taxes;AST;BS
+11320013;ASSETS;Recoverable taxes;AST;BS
+11320018;ASSETS;Recoverable taxes;AST;BS
+11515001;ASSETS;Other Assets;AST;BS
+12129002;ASSETS;Other Assets;AST;BS
+12212003;ASSETS;Others PP&E, Net;AST;BS
+12212004;ASSETS;Others PP&E, Net;AST;BS
+12212007;ASSETS;Benefits on third parties, Net;AST;BS
+12212013;ASSETS;Others PP&E, Net;AST;BS
+12213001;ASSETS;Others PP&E, Net;AST;BS
+12213002;ASSETS;Others PP&E, Net;AST;BS
+12213003;ASSETS;Others PP&E, Net;AST;BS
+12213004;ASSETS;Others PP&E, Net;AST;BS
+12213007;ASSETS;Benefits on third parties, Net;AST;BS
+12213010;ASSETS;Others PP&E, Net;AST;BS
+12214001;ASSETS;Others PP&E, Net;AST;BS
+12214002;ASSETS;Others PP&E, Net;AST;BS
+12214003;ASSETS;Others PP&E, Net;AST;BS
+12214009;ASSETS;Others PP&E, Net;AST;BS
+12215001;ASSETS;Lease - Right of Use;AST;BS
+12216001;ASSETS;Lease - Right of Use;AST;BS
+21111001;Current liabilities;Accounts payable;LEQ;BS
+21111003;Current liabilities;Accounts payable;LEQ;BS
+21115001;Current liabilities;Payroll & related;LEQ;BS
+21115003;Current liabilities;Payroll & related;LEQ;BS
+21115004;Current liabilities;Payroll & related;LEQ;BS
+21115005;Current liabilities;Payroll & related;LEQ;BS
+21115006;Current liabilities;Payroll & related;LEQ;BS
+21115007;Current liabilities;Payroll & related;LEQ;BS
+21115009;Current liabilities;Payroll & related;LEQ;BS
+21115010;Current liabilities;Payroll & related;LEQ;BS
+21116003;Current liabilities;Income Taxes;LEQ;BS
+21116004;Current liabilities;Income Taxes;LEQ;BS
+21116005;Current liabilities;Income Taxes;LEQ;BS
+21116006;Current liabilities;Income Taxes;LEQ;BS
+21116007;Current liabilities;Income Taxes;LEQ;BS
+21116008;Current liabilities;Income Taxes;LEQ;BS
+21116009;Current liabilities;Income Taxes;LEQ;BS
+21116010;Current liabilities;Income Taxes;LEQ;BS
+21116011;Current liabilities;Income Taxes;LEQ;BS
+21116013;Current liabilities;Income Taxes;LEQ;BS
+21116014;Current liabilities;Income Taxes;LEQ;BS
+21116015;Current liabilities;Income Taxes;LEQ;BS
+21117001;Current liabilities;Deferred revenue;LEQ;BS
+21117002;Current liabilities;Intercompany Payable;LEQ;BS
+21119001;Current liabilities;Lease - liabilities;LEQ;BS
+21119002;Current liabilities;Lease - liabilities;LEQ;BS
+21122001;Current liabilities;Payroll & related;LEQ;BS
+21122002;Current liabilities;Payroll & related;LEQ;BS
+21122003;Current liabilities;Payroll & related;LEQ;BS
+21122004;Current liabilities;Payroll & related;LEQ;BS
+21122005;Current liabilities;Payroll & related;LEQ;BS
+21122006;Current liabilities;Payroll & related;LEQ;BS
+21122009;Current liabilities;Payroll & related;LEQ;BS
+21122010;Current liabilities;Payroll & related;LEQ;BS
+21124002;Current liabilities;Accounts payable;LEQ;BS
+21126001;Current liabilities;Intercompany Payable;LEQ;BS
+23111002;Shareholders equity;Capital Stock;LEQ;LE
+23113001;Shareholders equity;Capital Stock;LEQ;LE
+23114001;Shareholders equity;Capital Stock;LEQ;LE
+23125001;Shareholders equity;Retained Earnings;LEQ;LE
+23125002;;;;
+23125003;Shareholders equity;Retained Earnings;LEQ;LE
+31113001;01.Net revenues;Net revenues;INC;P&L
+31113005;01.Net revenues;Net revenues;INC;P&L
+31113006;01.Net revenues;Net revenues;INC;P&L
+31113007;01.Net revenues;Net revenues;INC;P&L
+31113008;01.Net revenues;Net revenues;INC;P&L
+31113009;01.Net revenues;Net revenues;INC;P&L
+31113010;01.Net revenues;Net revenues;INC;P&L
+31213003;01.Net revenues;Net revenues;INC;P&L
+31213004;01.Net revenues;Net revenues;INC;P&L
+31213005;01.Net revenues;Net revenues;INC;P&L
+31213009;01.Net revenues;Net revenues;INC;P&L
+41111006;02. People Costs;Recurring Consultants;EXP;P&L
+51111001;02. People Costs;Fixed compensation;EXP;P&L
+51111002;02. People Costs;Variable Compensation;EXP;P&L
+51111003;02. People Costs;Social charges;EXP;P&L
+51111004;02. People Costs;Social charges;EXP;P&L
+51111005;02. People Costs;Severance costs;EXP;P&L
+51111009;02. People Costs;Fixed compensation;EXP;P&L
+51111010;02. People Costs;Variable Compensation;EXP;P&L
+51111012;02. People Costs;Fixed compensation;EXP;P&L
+51111014;02. People Costs;Benefits;EXP;P&L
+51111015;02. People Costs;Variable Compensation;EXP;P&L
+51111016;02. People Costs;Fixed compensation;EXP;P&L
+51111018;02. People Costs;Fixed compensation;EXP;P&L
+51111019;02. People Costs;Fixed compensation;EXP;P&L
+51111020;02. People Costs;Severance costs;EXP;P&L
+51111021;02. People Costs;Fixed compensation;EXP;P&L
+51111022;02. People Costs;Variable Compensation;EXP;P&L
+51111023;02. People Costs;Benefits;EXP;P&L
+51111024;02. People Costs;Benefits;EXP;P&L
+51111026;02. People Costs;Benefits;EXP;P&L
+51111027;02. People Costs;Variable Compensation;EXP;P&L
+51111029;02. People Costs;Variable Compensation;EXP;P&L
+51111033;02. People Costs;Benefits;EXP;P&L
+51111034;02. People Costs;Fixed compensation;EXP;P&L
+51111035;02. People Costs;Fixed compensation;EXP;P&L
+51112001;02. People Costs;Benefits;EXP;P&L
+51112002;02. People Costs;Benefits;EXP;P&L
+51112003;02. People Costs;Benefits;EXP;P&L
+51112004;02. People Costs;Benefits;EXP;P&L
+51112005;02. People Costs;Benefits;EXP;P&L
+51112007;02. People Costs;Benefits;EXP;P&L
+51112008;02. People Costs;Benefits;EXP;P&L
+51112009;02. People Costs;Benefits;EXP;P&L
+51112011;02. People Costs;Benefits;EXP;P&L
+51112012;02. People Costs;Benefits;EXP;P&L
+51112013;02. People Costs;Benefits;EXP;P&L
+51112014;02. People Costs;Benefits;EXP;P&L
+51112015;02. People Costs;Benefits;EXP;P&L
+51113001;02. People Costs;Fixed compensation;EXP;P&L
+51113002;02. People Costs;Fixed compensation;EXP;P&L
+51113003;02. People Costs;Social charges;EXP;P&L
+51113004;02. People Costs;Social charges;EXP;P&L
+51113005;02. People Costs;Social charges;EXP;P&L
+51113006;02. People Costs;Social charges;EXP;P&L
+51113012;02. People Costs;Social charges;EXP;P&L
+51113013;02. People Costs;Social charges;EXP;P&L
+51113014;02. People Costs;Social charges;EXP;P&L
+51113015;02. People Costs;Social charges;EXP;P&L
+51211002;03. Facilities;Real Estate + Utilities;EXP;P&L
+51211003;09. Depreciation & Amortization;Depreciation & Amortization;EXP;P&L
+51211004;03. Facilities;Maintenance;EXP;P&L
+51211005;03. Facilities;Other Facilities;EXP;P&L
+51211006;09. Depreciation & Amortization;Depreciation & Amortization;EXP;P&L
+51211007;10. Lease;Lease;EXP;P&L
+51212001;03. Facilities;Real Estate + Utilities;EXP;P&L
+51212003;03. Facilities;Real Estate + Utilities;EXP;P&L
+51212004;03. Facilities;Real Estate + Utilities;EXP;P&L
+51212006;04. Administrative costs;Other Administrative;EXP;P&L
+51212007;04. Administrative costs;Other Administrative;EXP;P&L
+51212008;04. Administrative costs;Other Administrative;EXP;P&L
+51212009;04. Administrative costs;Other Administrative;EXP;P&L
+51213002;03. Facilities;Maintenance;EXP;P&L
+51213003;03. Facilities;Maintenance;EXP;P&L
+51215001;04. Administrative costs;Professional Services - Accounting Fees;EXP;P&L
+51215002;04. Administrative costs;Professional Services - Others;EXP;P&L
+51215003;04. Administrative costs;Legal;EXP;P&L
+51215004;04. Administrative costs;Professional Services - Consulting;EXP;P&L
+51215005;04. Administrative costs;Other Administrative;EXP;P&L
+51215008;04. Administrative costs;Professional Services - Others;EXP;P&L
+51215010;04. Administrative costs;Professional Services - Others;EXP;P&L
+51215011;04. Administrative costs;Professional Services - Recruiting;EXP;P&L
+51215013;04. Administrative costs;Other Administrative;EXP;P&L
+51215016;04. Administrative costs;Licenses;EXP;P&L
+51215018;04. Administrative costs;Other Administrative;EXP;P&L
+51215020;04. Administrative costs;Other Administrative;EXP;P&L
+51215022;08. Development Outsourcing;Development Outsourcing;EXP;P&L
+51215024;04. Administrative costs;Licenses;EXP;P&L
+51215025;04. Administrative costs;Other Administrative;EXP;P&L
+51215027;03. Facilities;Other Facilities;EXP;P&L
+51216001;04. Administrative costs;Travel;EXP;P&L
+51216002;04. Administrative costs;Travel;EXP;P&L
+51216003;04. Administrative costs;Travel;EXP;P&L
+51216004;03. Facilities;Other Facilities;EXP;P&L
+51216006;03. Facilities;Other Facilities;EXP;P&L
+51216007;03. Facilities;Food;EXP;P&L
+51216008;04. Administrative costs;Other Administrative;EXP;P&L
+51216009;03. Facilities;Food;EXP;P&L
+51216010;04. Administrative costs;Other Administrative;EXP;P&L
+51216018;03. Facilities;Other Facilities;EXP;P&L
+51216021;04. Administrative costs;Events;EXP;P&L
+51216033;03. Facilities;Food;EXP;P&L
+51216037;12. Financial Income;Financial Expense;EXP;P&L
+51216038;03. Facilities;Other Facilities;EXP;P&L
+51216039;04. Administrative costs;Events;EXP;P&L
+51217001;07. Intercompany;Intercompany Expenses;EXP;P&L
+51217003;07. Intercompany;Intercompany Expenses;EXP;P&L
+51217004;07. Intercompany;Intercompany Expenses;EXP;P&L
+51217005;07. Intercompany;Intercompany Expenses;EXP;P&L
+51217007;07. Intercompany;Intercompany Expenses;EXP;P&L
+51217008;07. Intercompany;Intercompany Expenses;EXP;P&L
+51217009;07. Intercompany;Intercompany Expenses;EXP;P&L
+51312007;04. Administrative costs;Other Administrative;EXP;P&L
+51312008;04. Administrative costs;Events;EXP;P&L
+51411001;03. Facilities;Real Estate + Utilities;EXP;P&L
+51411010;12. Financial Income;Financial Expense;EXP;P&L
+51411011;12. Financial Income;Financial Expense;EXP;P&L
+51411015;03. Facilities;Real Estate + Utilities;EXP;P&L
+51411016;03. Facilities;Real Estate + Utilities;EXP;P&L
+51411017;03. Facilities;Real Estate + Utilities;EXP;P&L
+51411018;03. Facilities;Real Estate + Utilities;EXP;P&L
+51511008;02. People Costs;Variable Compensation;EXP;P&L
+51511009;02. People Costs;Fixed compensation;EXP;P&L
+51511011;04. Administrative costs;Travel;EXP;P&L
+51511012;04. Administrative costs;Travel;EXP;P&L
+51511013;04. Administrative costs;Travel;EXP;P&L
+51511016;04. Administrative costs;Licenses;EXP;P&L
+51511019;02. People Costs;Variable Compensation;EXP;P&L
+51511020;02. People Costs;Fixed compensation;EXP;P&L
+51511023;04. Administrative costs;Travel;EXP;P&L
+51511024;04. Administrative costs;Travel;EXP;P&L
+51511025;03. Facilities;Food;EXP;P&L
+51511027;04. Administrative costs;Licenses;EXP;P&L
+51511029;03. Facilities;Food;EXP;P&L
+51511033;03. Facilities;Real Estate + Utilities;EXP;P&L
+51511035;04. Administrative costs;Legal;EXP;P&L
+51511036;03. Facilities;Food;EXP;P&L
+51511038;04. Administrative costs;Professional Services - Accounting Fees;EXP;P&L
+51511040;03. Facilities;Real Estate + Utilities;EXP;P&L
+51511041;04. Administrative costs;Professional Services - Consulting;EXP;P&L
+51511042;04. Administrative costs;Legal;EXP;P&L
+51511043;03. Facilities;Maintenance;EXP;P&L
+51511044;03. Facilities;Maintenance;EXP;P&L
+51511045;04. Administrative costs;Travel;EXP;P&L
+51511048;04. Administrative costs;Events;EXP;P&L
+51511049;04. Administrative costs;Events;EXP;P&L
+51511054;08. Development Outsourcing;Development Outsourcing;EXP;P&L
+51511055;08. Development Outsourcing;Development Outsourcing;EXP;P&L
+51511060;03. Facilities;Other Facilities;EXP;P&L
+51511061;03. Facilities;Other Facilities;EXP;P&L
+51511063;02. People Costs;Benefits;EXP;P&L
+51511068;04. Administrative costs;Other Administrative;EXP;P&L
+51511069;04. Administrative costs;Other Administrative;EXP;P&L
+51511072;04. Administrative costs;Other Administrative;EXP;P&L
+51511073;04. Administrative costs;Other Administrative;EXP;P&L
+51511074;04. Administrative costs;Events;EXP;P&L
+51511075;04. Administrative costs;Events;EXP;P&L
+51511076;02. People Costs;Variable Compensation;EXP;P&L
+51511077;02. People Costs;Variable Compensation;EXP;P&L
+51511078;02. People Costs;Variable Compensation;EXP;P&L
+51511079;02. People Costs;Variable Compensation;EXP;P&L
+51511080;02. People Costs;Variable Compensation;EXP;P&L
+51511081;02. People Costs;Variable Compensation;EXP;P&L
+51511082;02. People Costs;Variable Compensation;EXP;P&L
+51511083;02. People Costs;Variable Compensation;EXP;P&L
+51511085;04. Administrative costs;Other Administrative;EXP;P&L
+51511087;04. Administrative costs;Other Administrative;EXP;P&L
+51511089;04. Administrative costs;Other Administrative;EXP;P&L
+51511090;03. Facilities;Real Estate + Utilities;EXP;P&L
+51511091;03. Facilities;Real Estate + Utilities;EXP;P&L
+51511091;04. Administrative costs;Other Administrative;EXP;P&L
+51511093;03. Facilities;Other Facilities;EXP;P&L
+51511094;03. Facilities;Real Estate + Utilities;EXP;P&L
+51511095;03. Facilities;Real Estate + Utilities;EXP;P&L
+51511096;03. Facilities;Real Estate + Utilities;EXP;P&L
+51511097;03. Facilities;Real Estate + Utilities;EXP;P&L
+51511098;04. Administrative costs;Other Administrative;EXP;P&L
+51511099;04. Administrative costs;Other Administrative;EXP;P&L
+51511100;03. Facilities;Other Facilities;EXP;P&L
+51511101;03. Facilities;Other Facilities;EXP;P&L
+51511102;04. Administrative costs;Events;EXP;P&L
+51511103;04. Administrative costs;Events;EXP;P&L
+51511104;04. Administrative costs;Professional Services - Others;EXP;P&L
+51511105;04. Administrative costs;Professional Services - Others;EXP;P&L
+51511106;03. Facilities;Real Estate + Utilities;EXP;P&L
+51511107;03. Facilities;Real Estate + Utilities;EXP;P&L
+51511108;02. People Costs;Benefits;EXP;P&L
+51511109;02. People Costs;Benefits;EXP;P&L
+51511110;02. People Costs;Benefits;EXP;P&L
+51711001;04. Administrative costs;Professional Services - Others;EXP;P&L
+51711004;04. Administrative costs;Other Administrative;EXP;P&L
+51711009;04. Administrative costs;Other Administrative;EXP;P&L
+51711010;04. Administrative costs;Other Administrative;EXP;P&L
+52111001;12. Financial Income;Financial Expense;EXP;P&L
+52111002;12. Financial Income;Financial Expense;EXP;P&L
+52111003;12. Financial Income;Financial Expense;EXP;P&L
+52111004;12. Financial Income;Financial Expense;EXP;P&L
+52111006;12. Financial Income;Exchange variation;EXP;P&L
+52111007;12. Financial Income;Exchange variation;EXP;P&L
+52111012;12. Financial Income;Financial Expense;EXP;P&L
+52111013;12. Financial Income;Financial Expense;EXP;P&L
+52111015;10. Lease;Lease;EXP;P&L
+52111016;12. Financial Income;Financial Expense;EXP;P&L
+52111017;12. Financial Income;Financial Expense;EXP;P&L
+52111018;12. Financial Income;Financial Expense;EXP;P&L
+52111019;12. Financial Income;Financial Expense;EXP;P&L
+52111020;12. Financial Income;Exchange variation;EXP;P&L
+52112001;12. Financial Income;Financial Revenue;EXP;P&L
+52112002;12. Financial Income;Financial Revenue;EXP;P&L
+52112004;12. Financial Income;Exchange variation;EXP;P&L
+52112005;12. Financial Income;Exchange variation;EXP;P&L
+52112006;12. Financial Income;Financial Revenue;EXP;P&L
+53112003;04. Administrative costs;Other Administrative;EXP;P&L
+71111001;13. Tax Income;Income Taxes;EXP;P&L
+71112001;13. Tax Income;Income Taxes;EXP;P&L
+not_def;ASSETS;Others PP&E, Net;AST;BS
+not_def;03. Facilities;Food;EXP;P&L
+not_def;04. Administrative costs;Legal;EXP;P&L
+not_def;04. Administrative costs;Other Administrative;EXP;P&L
+not_def;03. Facilities;Other Facilities;EXP;P&L
+not_def;03. Facilities;Real Estate + Utilities;EXP;P&L
+not_def;03. Facilities;Maintenance;EXP;P&L
